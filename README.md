@@ -6,6 +6,7 @@
 ***
 Aauth-Compat is a CodeIgniter-Aauth Compatibility Pack for deleted functions after v2.5.0 
 
+Documentation available on [GitBook](https://cib.gitbooks.io/codeigniter-aauth-compat/content/)
 
 ### Features 
 ***
