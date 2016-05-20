@@ -6,14 +6,14 @@
 Add or Updating System Variable `site_name` with value `example.com Site`.
 ```php
 	$this->load->library('aauth_compat');
-	$this->Aauth_Compat->set_system_var('site_name', 'example.com Site');
+	$this->aauth_compat->set_system_var('site_name', 'example.com Site');
 ```
 
 ### Retrive a System Variable
 Retrive System Variable `site_name`.
 ```php
 	$this->load->library('aauth_compat');
-	echo $this->Aauth_Compat->get_system_var('site_name');
+	echo $this->aauth_compat->get_system_var('site_name');
 ```
 
 Results:
@@ -66,7 +66,7 @@ Array
 Unset System Variable `site_name`.
 ```php
 	$this->load->library('aauth_compat');
-	$this->Aauth_Compat->unset_system_var('site_name');
+	$this->aauth_compat->unset_system_var('site_name');
 ```
 
 ## References
